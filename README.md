@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Jonathan Nguyen and I am a student at Seneca College taking the OPS445 course. 
+### Hi there 👋 My name is Jonathan Nguyen taking the OPS445NCC course. 
 
 <!--
 **jnguyen74/jnguyen74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
